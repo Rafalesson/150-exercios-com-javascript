@@ -1,4 +1,4 @@
-Escreva um programa JavaScript para exibir o dia e a hora atuais no seguinte formato:
+### Escreva um programa JavaScript para exibir o dia e a hora atuais no seguinte formato:
 
 Exemplo de Saída: 
 

@@ -2,4 +2,7 @@
 
 Saída esperada :
     
-- mm-dd-aaaa, mm/dd/aaaa ou dd-mm-aaaa, dd/mm/aaaa
+- mm-dd-aaaa 
+- mm/dd/aaaa 
+- dd-mm-aaaa
+- dd/mm/aaaa

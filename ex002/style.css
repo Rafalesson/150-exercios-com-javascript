@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
 .container{
@@ -17,15 +16,22 @@
     flex-direction: column;
 }
 
-.diaSemana, .horaAtual{
+.txt{
     font-size: 2rem;
     font-weight: 700;
 }
 
-.diaSemana{
-    margin-bottom: 1rem;
+.btn{
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: orange;
+    color: aliceblue;
+    font-size: 1.5rem;
+    cursor: pointer;
 }
 
-.laranja{
-    color: orange;
+.btn:hover{
+    color: #151515;
 }

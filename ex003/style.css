@@ -17,6 +17,25 @@
     font-size: 2rem;
 }
 
+.btn{
+    padding: 1rem 2rem;
+    background-color: transparent;
+    border: 2px solid orange;
+    border-radius: 5px;
+    color: orange;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: orange;
+    color: #151515;
+}
+
+.off{
+    display: none;
+}
+
 .laranja{
     color: orange;
 }

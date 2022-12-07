@@ -1,0 +1,1 @@
+ ### Escreva um programa JavaScript para encontrar a área de um triângulo onde os comprimentos dos três lados são 5, 6, 7.

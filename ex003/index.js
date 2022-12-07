@@ -6,5 +6,12 @@ const dia = data.getDate();
 const mes = data.getMonth() + 1;
 const ano = data.getFullYear();
 
-resultado.innerHTML = `<p>Resultado: <span class='laranja'>${dia} / ${mes} / ${ano}</span></p>`;
+resultado.innerHTML = `<p>Resultado: 
+<ul class='laranja'>
+    <li>${dia} - ${mes} - ${ano}</li>
+    <li>${dia} / ${mes} / ${ano}</li>
+    <li>${mes} - ${dia} - ${ano}</li>
+    <li>${mes} / ${dia} / ${ano}</li>
+</ul>
+</p>`;
 

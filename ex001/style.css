@@ -1,0 +1,15 @@
+.container{
+    width: 50vw;
+    height: 50vh;
+    background-color: #151515;
+    color: aliceblue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.laranja{
+    color: orange;
+}
